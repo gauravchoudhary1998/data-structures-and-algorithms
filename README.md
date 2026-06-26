@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0731-my-calendar-ii](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0731-my-calendar-ii) |
 ## Binary Search
@@ -31,9 +32,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Sorting
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
