@@ -1,17 +1,11 @@
 class Solution:
     def waysToSplitArray(self, nums: List[int]) -> int:
-        prefixSum = []
-        sumn = 0
+        total = sum(nums)   # total sum upfront
+        left  = 0           # running left sum
         count = 0
 
-        for i in range(len(nums)):
-            sumn += nums[i]
-            prefixSum.append(sumn)
-
-        print(prefixSum)
-
-        for i in range(len(prefixSum)-1):
-            if prefixSum[i] >= (prefixSum[-1] - prefixSum[i]):
+        for i in range(len(nums)-1):
+            left += nums[i]
+            if left >= total - left:
                 count += 1
-        
         return count
