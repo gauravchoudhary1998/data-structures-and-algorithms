@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0731-my-calendar-ii](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0731-my-calendar-ii) |
 | [1991-find-the-middle-index-in-array](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/1991-find-the-middle-index-in-array) |
+| [2270-number-of-ways-to-split-array](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/2270-number-of-ways-to-split-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0731-my-calendar-ii](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0731-my-calendar-ii) |
 | [1991-find-the-middle-index-in-array](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/1991-find-the-middle-index-in-array) |
+| [2270-number-of-ways-to-split-array](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/2270-number-of-ways-to-split-array) |
 ## Ordered Set
 |  |
 | ------- |
