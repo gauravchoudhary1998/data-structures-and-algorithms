@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0731-my-calendar-ii](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0731-my-calendar-ii) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1991-find-the-middle-index-in-array](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/1991-find-the-middle-index-in-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/2270-number-of-ways-to-split-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -57,5 +58,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
