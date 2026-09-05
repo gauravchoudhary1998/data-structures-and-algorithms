@@ -54,10 +54,36 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0187-repeated-dna-sequences) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0187-repeated-dna-sequences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## String
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0187-repeated-dna-sequences) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0187-repeated-dna-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
