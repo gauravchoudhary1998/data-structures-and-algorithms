@@ -55,17 +55,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0187-repeated-dna-sequences) |
+| [0567-permutation-in-string](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0567-permutation-in-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0187-repeated-dna-sequences) |
+| [0567-permutation-in-string](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0567-permutation-in-string) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0187-repeated-dna-sequences) |
+| [0567-permutation-in-string](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0567-permutation-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -86,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0187-repeated-dna-sequences) |
+## Two Pointers
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
