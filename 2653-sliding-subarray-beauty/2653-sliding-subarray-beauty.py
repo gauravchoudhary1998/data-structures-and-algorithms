@@ -15,9 +15,8 @@ class Solution:
 
         for num in initialWindow:
             freq[num] = freq.get(num,0) + 1
-            smallest = getXthSmallest(freq, x)
 
-        res.append(smallest)
+        res.append(getXthSmallest(freq, x))
 
         for i in range(k, len(nums)):
             freq[nums[i-k]] = freq.get(nums[i-k],0) - 1
