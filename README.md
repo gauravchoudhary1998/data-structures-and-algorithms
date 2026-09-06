@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/1991-find-the-middle-index-in-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/2270-number-of-ways-to-split-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2653-sliding-subarray-beauty](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/2653-sliding-subarray-beauty) |
 ## Binary Search
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0187-repeated-dna-sequences) |
 | [0567-permutation-in-string](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0567-permutation-in-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2653-sliding-subarray-beauty](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/2653-sliding-subarray-beauty) |
 ## Sliding Window
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0567-permutation-in-string) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2653-sliding-subarray-beauty](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/2653-sliding-subarray-beauty) |
 ## String
 |  |
 | ------- |
