@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0187-repeated-dna-sequences) |
 | [0567-permutation-in-string](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0567-permutation-in-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0187-repeated-dna-sequences) |
 | [0567-permutation-in-string](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0567-permutation-in-string) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0187-repeated-dna-sequences) |
 | [0567-permutation-in-string](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0567-permutation-in-string) |
 ## Bit Manipulation
