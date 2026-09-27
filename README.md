@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0152-maximum-product-subarray) |
+| [0209-minimum-size-subarray-sum](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0435-non-overlapping-intervals](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0731-my-calendar-ii](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0731-my-calendar-ii) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0731-my-calendar-ii](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0731-my-calendar-ii) |
 ## Design
 |  |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0731-my-calendar-ii](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0731-my-calendar-ii) |
 | [1991-find-the-middle-index-in-array](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/1991-find-the-middle-index-in-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/2270-number-of-ways-to-split-array) |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0187-repeated-dna-sequences) |
+| [0209-minimum-size-subarray-sum](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/0567-permutation-in-string) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/gauravchoudhary1998/data-structures-and-algorithms/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
